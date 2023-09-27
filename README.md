@@ -1,4 +1,4 @@
-![logo](https://github.com/zuhaib342/zuhaib342/blob/main/Muhammad%20Zuhaib.png)
+![logo](https://github.com/zuhaib342/zuhaib342/blob/main/Muhammad%20Zuhaib.gif)
 <h1 align="center">Hi 👋, I'm Zuhaib</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 
